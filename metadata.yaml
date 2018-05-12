@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2850'
     url: http://www.gutenberg.org/2009/agents/2850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22152#Possessed
 gutenberg_issued: '2007-07-26'
 gutenberg_type: Text
 identifiers:
